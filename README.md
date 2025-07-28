@@ -1,4 +1,4 @@
-# Sprint-7
+
 El proyecto consistió en la practica de ingeniería de software para el desarrollo de una aplicación web. Las tareas llevadas a cabo se relacionan con la creación y gestión de entornos virtuales de python y el desarrollo del la aplicación web.
 A continuación se enumenran los pasos que se siguieron para el desarrollo del poryecto:
 1. Se creó una cuenta en Github para posteriormente generar un repositorio git en donde se cargarán los avances de VS Code.
